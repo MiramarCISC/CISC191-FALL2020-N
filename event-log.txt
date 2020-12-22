@@ -1,0 +1,1 @@
+Event Log Started at: 1608623620680(Current time in milliseconds)
